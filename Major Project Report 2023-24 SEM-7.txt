@@ -1,0 +1,41 @@
+Major Project Report 2023-24 SEM-7
+
+Start and end date
+Abstract is a single paragraph
+Date
+All dates
+Analysis framework remove slashes(comments)
+
+
+
+
+--SMOTE-ENN : Helps in overcoming classs imbalance which causes underfitting for the class with less data and causes overfitting for the class with majority data.
+
+--Random Forest gave the best results as it uses ensemble learning learning methid as well as it is a bagging approach.
+
+--SVM was used in the majority of the previous works done in the industry so we just didnt add it into our final applications for research.
+
+--Applying PCA did not give very encouraging results so PCA was also not included.
+
+--By doing EDA(Exploratory Data Analyis) we found the follwing insights:
+
+
+	1.   Electronic check medium are the highest churners
+	2.   Contract Type - Monthly customers are more likely to churn because of no contract terms, as they are free to go customers.
+	3.   No Online security, No Tech Support category are high churners
+	4.   Non senior Citizens are high churners
+
+--Algorithms used are :
+
+	Decision Trees
+	Random Forest 
+	PCA
+	SMOTE-ENN
+
+--PowerBI dashboard is also made for better analysis and understanding for the stakeholders
+
+-----------------------------------Next Sem Plan--------------------------------------
+
+--XG Boost is implementation for next sem 
+--Hyperplane Tuning will increase the accuracy and overcome
+
